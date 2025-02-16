@@ -1,1 +1,1 @@
-When taking the project take everything with the same file name for example tictactoe, take everything with that same name and if its just the code you need, open the file with surfix (.py), for example tictactoe.py
+When taking the project take everything with the same file name for example tictactoe, take everything with that same name and if its just the code you need, open the file with surfix (.py), for example tictactoe.py or the surfix(.java), for example bank.java
